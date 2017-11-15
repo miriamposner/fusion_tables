@@ -12,14 +12,13 @@ Open Google fusion tables
 
 ![](imgs/media/ssimage1.png)
 
-Go to tables.googlelabs.com
+Go to Fusion Tables, located here: [https://support.google.com/fusiontables/answer/2571232?hl=en](https://support.google.com/fusiontables/answer/2571232?hl=en).
 
 Click on "Create a Fusion Table" and sign in with your Google account
 ---------------------------------------------------------------------
 
 ![](imgs/media/ssimage2.png)
 
-If you don't have a Google account, see Miriam for a throwaway account.
 Once you're in, click on **Choose File** and then select the
 Cushman-Collection file. For **Separator Character**, keep the options
 as they are (with **Comma** selected) and then click **Next**. On the
